@@ -1,5 +1,6 @@
 # Hi there , I am Nadir! 
 <p>I will be the next king of all programmers.</p>
+<p> Graduated in Information Technology Degree, future web developer, with 2 years' experience in web development. My Passion for web space development has brought me during my studies and where I have gained a taste of web development modules.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
