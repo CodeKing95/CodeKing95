@@ -1,5 +1,5 @@
 # Hi there , I am Nadir! 
-<p>I am highly motivated of becoming a software developer which has been my goal. At the moment I am employed as an IT Support, but I still wanted to get into a programming Job.I have started my programming journey during my time at university were I was introduced into programming module.So I started working on multiple web development projects which is now on my portfolio and will export the code into github.</p>
+<p>I am highly motivated of becoming a software developer which has been my long time goal.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
