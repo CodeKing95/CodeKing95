@@ -1,4 +1,5 @@
 # Hi there , I am Nadir! 
+<p>I am the king of all programmers.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
