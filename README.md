@@ -1,6 +1,6 @@
 # Hi there , I am Nadir! 
-<p>I am highly motivated of becoming a software developer which has been my long time goal.</p>
-<p>I am an full-stack developer and I built my version of the digital world one step at a time. All the coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
+<p>I am highly motivated of becoming a designer/developer.</p>
+<p>All the coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
