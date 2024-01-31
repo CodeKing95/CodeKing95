@@ -1,5 +1,5 @@
 # Hi there , I am Nadir! 
-<p>I am in IT Support but I really want to change the game into software development. I am fully confidence that I can bring value and problem solving to the team. Passionate about learning tech and the fundamentals.</p>
+<p>I am in IT Support but I really want to change the game into software development. I am fully confidence that I can bring value and problem solving to the team. Passionate about learning tech and the fundamentals as well as writing code from scratch and building web applications.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
