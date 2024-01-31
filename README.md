@@ -1,12 +1,7 @@
 # Hi there , I am Nadir! 
-<p>I am in IT Support but I really want to change the game into software development.</p>
-<p>I am fully confidence that I can bring value and problem solving to the team.</p>
-<p>Passionate about learning tech and the fundamentals.</p>
-<p>I am highly motivated of becoming a designer/developer.</p>
-<p>All the coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
+<p>I am in IT Support but I really want to change the game into software development. I am fully confidence that I can bring value and problem solving to the team. Passionate about learning tech and the fundamentals.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
