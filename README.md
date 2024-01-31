@@ -1,4 +1,7 @@
 # Hi there , I am Nadir! 
+<p>I am in IT Support but I really want to change the game into software development.</p>
+<p>I am fully confidence that I can bring value and problem solving to the team.</p>
+<p>Passionate about learning tech and the fundamentals.</p>
 <p>I am highly motivated of becoming a designer/developer.</p>
 <p>All the coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodeKing95&show_icons=true&theme=tokyonight"/>
