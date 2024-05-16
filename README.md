@@ -1,5 +1,5 @@
 # Hi to all Software Developers, I am Nadir! 
-<p>I have first discovered coding durinh my BSc studies. I have quickly picked an intersted with programming, writing lines of code and problem solving. I am very comfortable with the use of full stack development and I am looking for a position where I can bring value to the team. I am always passionate about learning tech, fundamentals as well as writing code from scratch and building web applications.</p>
+<p>I have first discovered coding during my BSc studies. I have quickly picked an intersted with programming, writing lines of code and problem solving. I am very comfortable with the use of full stack development and I am looking for a position where I can bring value to the team. I am always passionate about learning tech, fundamentals as well as writing code from scratch and building web applications.</p>
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
