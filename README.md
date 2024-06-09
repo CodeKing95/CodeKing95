@@ -1,4 +1,4 @@
-# Hi to all Software Developers, I am Nadir! 
+# Hi I am Nadir Ahmed! 
 <p> - I have first discovered coding during my BSc studies. </p>
 <p> - I have quickly picked an intersted in programming, writing lines of code and solving Bugs. </p>
 <p> - I've been enjoying web development ever since I have achieved a first class grade for my final year project in full stack. </p> 
