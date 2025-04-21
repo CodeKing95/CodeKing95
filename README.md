@@ -1,6 +1,6 @@
 # Hi I am Nadir Ahmed! 
-<p> • I have first discovered coding during my BSc studies in IT. </p>
-<p> • I have quickly picked an intersted in programming, writing lines of code, solving Bugs & Building Software Projects. </p>
+<p> • I have First discovered coding during my BSc studies in IT. </p>
+<p> • I have quickly picked an intersted in programming, writing software, solving bugs & Building Projects. </p>
 <p> • I've been enjoying Software development ever since I have achieved a first class grade for my final year project in full stack. </p> 
 <p> • I'm currenlty on the look out for a role in software development, ideally writing JavaScript, TypeScript, PHP, MySQL and React JS.</p>
 <p> • I'd  especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!</p>
