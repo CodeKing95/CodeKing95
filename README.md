@@ -12,3 +12,7 @@
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="left" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+- I am currently employed as an IT Specialist. But I wanted to switch my current position to become a software developer.
+- I have started with programming during my BSc studies.
+- Also I worked on my final thesis project which was about airline management system and achieved a first class grade. Stack was used: HTML, CSS, JavaScript, PHP & MySQL.
+- I have taken part in a coding bootcamp programm to enhance my skills in programming and now currently looking for the right opportunity to start an amazing career as a software developer.
