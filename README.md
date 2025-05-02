@@ -4,6 +4,7 @@
 <p> • Also I worked on my final thesis project which was about airline management system and achieved a first class grade. Stack was used: HTML, CSS, JavaScript, PHP & MySQL.</p> 
 <p> • I have taken part in a coding bootcamp programm to enhance my skills in programming, I have developed projects in React JS, TypesScript, AJAX & Supabase. </p>
 <p> • Now I am currently looking for the right opportunity to start an amazing career as a software developer.</p>
+<p> • I am Software Engineer specializing in full-stack development. I love learning new things and turning ideas into reality. With a bachelor's degree in IT and a diploma in software enginering, I'm a potential candidate for your company. If you're interested in learning more about me, let's chat! :)</p>
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
