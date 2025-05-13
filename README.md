@@ -1,5 +1,5 @@
 # Hi I am Nadir Ahmed! 
-<p> • I am a Software Developer specializing in full-stack development. I love learning new things and turning ideas into reality. With a bachelor's degree in IT and a diploma in Software Development, I'm a potential candidate for your company.</p>
+<p> • I am a Software Developer specializing in frontend development. I love learning new things and turning ideas into reality. With a bachelor's degree in IT and a diploma in Software Development, I'm a potential candidate for your company.</p>
 <p> • Also I worked on my final thesis project which was about airline management system and achieved a first class grade. Stack was used: HTML, CSS, JavaScript, PHP & MySQL.</p> 
 <p> • I have taken part in a coding bootcamp programm to enhance my skills in programming, I have developed projects in React JS, TypesScript, AJAX & Supabase. </p>
 <p> • Those projects are here available here on github. </p>
