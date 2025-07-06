@@ -1,9 +1,13 @@
 # Hi I am Nadir Ahmed! 
-<p> • I am a Software Developer specializing in frontend development. I love learning new things and turning ideas into reality. With a bachelor's degree in IT and a diploma in Software Development, I'm a potential candidate for your company.</p>
-<p> • Also I worked on my final thesis project which was about airline management system and achieved a first class grade. Stack was used: HTML, CSS, JavaScript, PHP & MySQL.</p> 
-<p> • I have taken part in a coding bootcamp programm to enhance my skills in programming, I have developed projects in React JS, TypesScript, AJAX & Supabase. </p>
-<p> • Those projects are here available here on github. </p>
-<p> • If you're interested in learning more about me, let's chat! :)</p>
+I’m a Software Developer with a strong focus on frontend development. I’m passionate about learning new technologies and bringing creative ideas to life through code. With a Bachelor’s degree in IT and a Diploma in Software Development, I’m confident that I can be a valuable addition to your team.
+
+As part of my academic journey, I completed a final thesis project on an Airline Management System, for which I earned a first-class grade. The project was built using HTML, CSS, JavaScript, PHP, and MySQL.
+
+To further sharpen my skills, I also participated in a coding bootcamp, where I worked on real-world projects using React.js, TypeScript, AJAX, and Supabase.
+
+You can check out my projects on GitHub.
+
+If you’re interested in learning more about my work or chatting about potential opportunities—let’s connect! 😊
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
