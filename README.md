@@ -5,7 +5,9 @@
 
 • To further sharpen my skills, I also participated in a coding bootcamp, where I worked on real-world projects using React.js, TypeScript, AJAX, and Supabase.
 
-• You can check out my projects on GitHub.
+• You can check out my projects on GitHub. 
+
+• I am looking for the right opportunity where I can advance further in the field of Software Development.
 
 • If you’re interested in learning more about my work or chatting about potential opportunities—let’s connect! 😊
 
