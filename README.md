@@ -1,5 +1,5 @@
 # Hi I am Nadir Ahmed! 
-• I’m a Software Developer with a strong focus on frontend development. I’m passionate about learning new technologies and  bringing creative ideas to life through code. With a   Bachelor’s degree in IT and a Diploma in Software Development, I’m confident that I can be a valuable addition to your team.
+• I’m a Software Developer with a strong focus on full-stack development. I’m passionate about learning new technologies and  bringing creative ideas to life through code. With a   Bachelor’s degree in IT and a Diploma in Software Development, I’m confident that I can be a valuable addition to your team.
 
 • As part of my academic journey, I completed a final thesis project on an Airline Management System, for which I earned a first-class grade. The project was built using HTML,   CSS, JavaScript, PHP, and MySQL.
 
