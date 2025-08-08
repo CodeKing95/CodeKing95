@@ -1,5 +1,6 @@
 # Hi I am Nadir Ahmed! 
 • I'm a Software Developer with a strong focus on full-stack development. I’m passionate about learning new technologies and  bringing creative ideas to life through code.
+
 • As part of my academic journey, I completed My A-Level studies in IT and also I completed my BSc degree in IT.
 
 • To develop my skills further in coding, I also participated in a coding bootcamp, where I worked on real-world projects using React.js, TypeScript, AJAX, and Supabase.
