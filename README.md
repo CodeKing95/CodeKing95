@@ -1,15 +1,12 @@
 # Hi I am Nadir Ahmed! 
-• I’m a Software Developer with a strong focus on full-stack development. I’m passionate about learning new technologies and  bringing creative ideas to life through code. With a   Bachelor’s degree in IT and a Diploma in Software Development, I’m confident that I can be a valuable addition to your team.
+• I'm a Software Developer with a strong focus on full-stack development. I’m passionate about learning new technologies and  bringing creative ideas to life through code.
+• As part of my academic journey, I completed My A-Level studies in IT and also I completed my BSc degree in IT.
 
-• As part of my academic journey, I completed a final thesis project on an Airline Management System, for which I earned a first-class grade. The project was built using HTML,   CSS, JavaScript, PHP, and MySQL.
-
-• To further sharpen my skills, I also participated in a coding bootcamp, where I worked on real-world projects using React.js, TypeScript, AJAX, and Supabase.
+• To develop my skills further in coding, I also participated in a coding bootcamp, where I worked on real-world projects using React.js, TypeScript, AJAX, and Supabase.
 
 • You can check out my projects on GitHub. 
 
-• I am looking for the right opportunity where I can advance further in the field of Software Development.
-
-• If you’re interested in learning more about my work or chatting about potential opportunities—let’s connect! 😊
+• If you’re interested in learning more about my work why not get in touch and talk about potential opportunities. let’s connect! 😊
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
