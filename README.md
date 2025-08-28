@@ -1,7 +1,7 @@
 # Hi I There! </>
 • I'm Nadir Ahmed,
 
-• I'm a Software Developer with a strong focus on full-stack development. I’m passionate about learning new technologies and  bringing creative ideas to life through code.
+• I'm a Software Engineer with a strong focus on full-stack development. I’m passionate about learning new technologies and  bringing creative ideas to life through code.
 
 • As part of my academic journey, I completed My A-Level studies in IT and also I completed my BSc degree in IT.
 
