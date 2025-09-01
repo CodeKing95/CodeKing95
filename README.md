@@ -2,7 +2,8 @@
 
 • 💻 Software Engineer | Full-Stack Developer
 
-• I'm passionate about turning ideas into impactful software solutions. With a strong foundation in full-stack development, I enjoy exploring new technologies and building software projects that solve real-world problems.
+• I'm passionate about turning ideas into impactful software solutions. With a strong foundation in full-stack development, 
+I enjoy exploring new technologies and building software projects that solve real-world problems.
 
 • 🎓 Background
 
