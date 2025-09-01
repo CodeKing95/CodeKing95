@@ -11,7 +11,9 @@ I enjoy exploring new technologies and building software projects that solve rea
  
  • 🚀 Graduated from a coding bootcamp where I worked on real-world projects using:
 
+ 
  • React.JS ⚛️
+ 
  • TypeScript 🟦
  
 
