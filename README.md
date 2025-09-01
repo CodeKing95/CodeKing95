@@ -7,7 +7,7 @@ I enjoy exploring new technologies and building software projects that solve rea
 
  🎓 Background:
  
- • 📚 Completed A-Level IT and a BSc in IT
+ • 📚 Completed A-Level in IT and a BSc in IT
  
  • 🚀 Graduated from a coding bootcamp where I worked on real-world projects using:
 
