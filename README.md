@@ -15,6 +15,11 @@ I enjoy exploring new technologies and building software projects that solve rea
  • React.JS ⚛️
  
  • TypeScript 🟦
+
+ • AJAX 🌐
+
+ • Supabase
+ 
  
 
 
