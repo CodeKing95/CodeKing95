@@ -34,6 +34,10 @@ I enjoy exploring new technologies and building software projects that solve rea
 
 • You can explore my projects right here on GiHub. I've worked on applications showcasing clean code, scalability, and user-focused design.
 
+🤝 Let’s Connect
+
+• I’m always open to collaborating on interesting projects or discussing potential opportunities. Feel free to reach out—I’d love to connect!
+
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
