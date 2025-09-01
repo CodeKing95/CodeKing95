@@ -28,7 +28,11 @@ I enjoy exploring new technologies and building software projects that solve rea
  • Work across the stack, from frontend to backend.
 
  • Continuously learn & experiment with emerging tools and frameworks.
- 
+
+
+📂 Projects:
+
+• You can explore my projects right here on GiHub. I've worked on applications showcasing clean code, scalability, and user-focused design.
 
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
