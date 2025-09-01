@@ -6,6 +6,7 @@
 I enjoy exploring new technologies and building software projects that solve real-world problems.
 
 • 🎓 Background
+ 
  • 📚 Completed A-Level IT and a BSc in IT
 
 
