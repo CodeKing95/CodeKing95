@@ -22,7 +22,11 @@ I enjoy exploring new technologies and building software projects that solve rea
 
  🛠️ What I Do
 
- 
+ • Develop modern, responsive web applications
+
+ • Work across the stack, from frontend to backend
+
+ • Continuously learn & experiment with emerging tools and frameworks
  
 
 
