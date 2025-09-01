@@ -18,7 +18,7 @@ I enjoy exploring new technologies and building software projects that solve rea
 
  • AJAX 🌐
 
- • Supabase
+ • Supabase 🗄️
  
  
 
