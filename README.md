@@ -5,7 +5,7 @@
 • I'm passionate about turning ideas into impactful software solutions. With a strong foundation in full-stack development, 
 I enjoy exploring new technologies and building software projects that solve real-world problems.
 
- 🎓 Background
+ 🎓 Background:
  
  • 📚 Completed A-Level IT and a BSc in IT
  
@@ -19,14 +19,15 @@ I enjoy exploring new technologies and building software projects that solve rea
  • AJAX 🌐
 
  • Supabase 🗄️
+ 
 
- 🛠️ What I Do
+ 🛠️ What I Do:
 
- • Develop modern, responsive web applications
+ • Develop modern, responsive web applications.
 
- • Work across the stack, from frontend to backend
+ • Work across the stack, from frontend to backend.
 
- • Continuously learn & experiment with emerging tools and frameworks
+ • Continuously learn & experiment with emerging tools and frameworks.
  
 
 
