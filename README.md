@@ -1,6 +1,6 @@
  👋 Hi, I'm Nadir Ahmed
 
- 💻 Software Engineer | Full-Stack Developer
+ 💻 Software Developer
 
 • I'm passionate about turning ideas into impactful software solutions. With a strong foundation in full-stack development, 
 I enjoy exploring new technologies and building software projects that solve real-world problems.
