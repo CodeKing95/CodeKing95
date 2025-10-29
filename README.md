@@ -2,7 +2,9 @@
 
  💻 Software Developer
 
-• I enjoy Web Development on my first day during programming class, I like about turning ideas into impactful software solutions. I was able to learn more about Frontend and backend development, built projects and this has given me a strong foundation foundation in full-stack development. I enjoy exploring new technologies and building software projects that solve real-world problems.
+• I enjoy Web Development on my first day during programming class, I like about turning ideas into impactful software solutions. 
+• I was able to learn more about Frontend and backend development, built projects and this has given me a strong foundation foundation in full-stack development. 
+• I enjoy exploring new technologies and building software projects that solve real-world problems.
 
  🎓 Background:
  
