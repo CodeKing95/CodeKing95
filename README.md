@@ -28,6 +28,7 @@
 If you want to learn how i do it, my books and course are available here!
 
 Fun Facts:
+
 • Dragon Ball Z is my favorite anime.
 • Hobbies: anime, gym, building software & Playstation 5.
 
