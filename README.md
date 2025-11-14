@@ -2,7 +2,7 @@
 
  💻 Software Developer
 
-• I enjoy Web Development on my first day during programming class, I like about turning ideas into impactful software solutions. 
+• The first taste of Web Development I got was on my first day during programming class and I really liked about turning ideas into impactful software solutions. 
 
 • I was able to learn more about Frontend and backend development, built projects and this has given me a strong foundation in full-stack development. 
 
