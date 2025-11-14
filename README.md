@@ -6,7 +6,7 @@
 
 • I got my first taste of Web Development during my first programming class.
 
-• I got was on my first day during programming class and I really liked about turning ideas into impactful software solutions. 
+• I really liked about turning ideas into impactful software solutions. 
 
 • I was able to learn more about Frontend and backend development, built projects and this has given me a strong foundation in full-stack development. 
 
