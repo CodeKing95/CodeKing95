@@ -1,10 +1,12 @@
   👋 Hi, What's Up!
   
-  • I enjoy exploring new technologies and building software projects that solve real-world problems.
+  • I am Nadir, a software developer based in London, UK.
 
  💻 Software Developer
 
-• The first taste of Web Development I got was on my first day during programming class and I really liked about turning ideas into impactful software solutions. 
+• I got my first taste of Web Development during my first programming class.
+
+• I got was on my first day during programming class and I really liked about turning ideas into impactful software solutions. 
 
 • I was able to learn more about Frontend and backend development, built projects and this has given me a strong foundation in full-stack development. 
 
