@@ -1,4 +1,6 @@
-  👋 Hi, I'm Nadir Ahmed
+  👋 Hi, What's Up!
+  
+  • I enjoy exploring new technologies and building software projects that solve real-world problems.
 
  💻 Software Developer
 
