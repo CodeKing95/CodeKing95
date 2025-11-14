@@ -1,4 +1,4 @@
- 👋 Hi, I'm Nadir Ahmed
+  👋 Hi, I'm Nadir Ahmed
 
  💻 Software Developer
 
@@ -8,22 +8,7 @@
 
 • I enjoy exploring new technologies and building software projects that solve real-world problems.
 
- 🎓 Background:
  
- • 📚 Completed My A-Level and Bachelor of Science in Information Technology.
- 
- • 🚀 Graduated from a coding bootcamp where I worked on real-world projects using:
-
- 
- • React.JS ⚛️
- 
- • TypeScript 🟦
-
- • AJAX 🌐
-
- • Supabase 🗄️
- 
-
  🛠️ What I Do:
 
  • Develop modern, responsive web applications.
@@ -40,7 +25,11 @@
 🤝 Let’s Connect
 
 • I’m always open to collaborating on interesting projects or discussing potential opportunities. Feel free to reach out—I’d love to connect!
+If you want to learn how i do it, my books and course are available here!
 
+Fun Facts:
+Dragon Ball Z is my favorite anime
+Hobbies: anime, gym, building things
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
