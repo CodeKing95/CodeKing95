@@ -1,6 +1,6 @@
   👋 Hi, What's Up!
   
-  • I am Nadir, a software developer based in London, UK.
+  • I am Nadir, I am based in London, UK.
 
  💻 Software Developer
 
