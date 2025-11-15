@@ -4,7 +4,7 @@
 
  💻 Software Developer
 
-• I got my first taste of Web Development during my first programming class.
+• When I wrote my first line of code during web development class, I knew that this is what I want to do it as a career.
 
 • I really liked about turning ideas into impactful software solutions. 
 
