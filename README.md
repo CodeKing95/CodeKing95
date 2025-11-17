@@ -1,4 +1,4 @@
-  👋 Hi, What's Up!!
+  👋 Hi, What's Up!
   
   • I am Nadir, I am based in London, UK.
 
