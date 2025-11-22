@@ -1,7 +1,7 @@
   👋 Hi There!
   
   • I am Nadir, I am based in London, UK. 
-
+    
  💻 Software Developer
 
 • When I wrote my first line of code during web development class, I knew that this is what I want to do it as a career.
