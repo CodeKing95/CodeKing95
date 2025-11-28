@@ -1,6 +1,6 @@
   👋 Hi There!
     
-  • I am Nadir, I am based in London, UK.    
+  • I am Nadir, Born and Raised in Germany now I am currently based in London, UK.    
     
  💻 Software Developer
 
