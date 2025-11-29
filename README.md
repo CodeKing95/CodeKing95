@@ -1,6 +1,6 @@
   👋 Hi There!
     
-  • I am Nadir, Born and Raised in Germany now I am currently reside in London, UK.    
+  • I am Nadir, Born and Raised in Germany now I currently reside in London, UK.    
     
  💻 Software Developer
 
