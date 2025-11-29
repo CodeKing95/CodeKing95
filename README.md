@@ -4,11 +4,11 @@
     
  💻 Software Developer
 
-• When I wrote my first line of code during web development class, I knew that this is what I want to do it as a career.
+• When I wrote my first line of code in a web development class, I knew that this was what I wanted to pursue as a career.
 
 • I really liked about turning ideas into impactful software solutions. 
 
-• I was able to learn more about Frontend and backend development, built projects and this has given me a strong foundation in full-stack development. 
+• I learned more about frontend and backend development, built projects, and developed a strong foundation in full-stack development.
 
 • I enjoy exploring new technologies and building software projects that solve real-world problems.
 
