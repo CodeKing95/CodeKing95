@@ -1,7 +1,9 @@
- 👋 Hi there! And a warm welcome to my GitHub profile.  
+ 👋 Hi there! Welcome to my GitHub profile.  
       
-  • I am Nadir Ahmed, born and raised in Germany. I currently reside in London, UK.    
-    
+  • I am Nadir Ahmed, 
+  
+  • I was born and raised in Germany. Now I reside in London, UK. 
+  
  💻 Software Developer
 
 • When I wrote my first line of code in a web development class, I knew that this was what I wanted to pursue as a career.
