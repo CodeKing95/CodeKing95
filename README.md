@@ -12,7 +12,7 @@
 
 • I learned more about frontend and backend development, built projects, and developed a strong foundation in full-stack development.
 
-• I enjoy exploring new technologies and building software projects that solve real-world problems.
+• I enjoy exploring new technologies and building software projects that solve real-world problems.  
 
  
  🛠️ What I Do:
