@@ -2,7 +2,7 @@
                 
   • I am Nadir Ahmed, 
     
-  • I was born and raised in Germany. Now I reside in London, UK. 
+  • I was born and raised in Germany. Now I reside in London, UK.  
   
  💻 Software Developer 
 
