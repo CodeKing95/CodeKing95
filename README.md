@@ -6,7 +6,7 @@
   
  💻 Software Developer 
 
-• When I wrote my first line of code in a web development class, I knew that this was what I wanted to pursue as a career.
+• When I wrote my first line of code in a web development class, I knew that this was what I wanted to pursue as a career. 
 
 • I really liked about turning ideas into impactful software solutions. 
 
