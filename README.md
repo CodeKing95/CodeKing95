@@ -1,7 +1,7 @@
- 👋 Hi there! Welcome to my GitHub profile.    
-                  
-  • I am Nadir Ahmed,   
-     
+  Hi there! I am Nadir Ahmed👋
+ 
+  • Welcome to my GitHub profile.   
+      
   • I was born and raised in Germany. Now I reside in London, UK.   
   
  💻 Software Developer | React JS | TypeScript | JavaScript
