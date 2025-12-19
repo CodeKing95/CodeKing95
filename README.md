@@ -4,7 +4,7 @@
      
   • I was born and raised in Germany. Now I reside in London, UK.   
   
- 💻 Software Developer 
+ 💻 Software Developer | React JS | TypeScript | JavaScript
 
 • When I wrote my first line of code in a web development class, I knew that this was what I wanted to pursue as a career. 
 
