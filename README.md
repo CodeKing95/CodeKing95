@@ -1,6 +1,6 @@
   Hi there! I am Nadir Ahmed👋  
   
-  • Welcome to my GitHub profile.    
+  • Welcome to my GitHub profile.     
       
   • I was born and raised in Germany. Now I reside in London, UK.   
   
