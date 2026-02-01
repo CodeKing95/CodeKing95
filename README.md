@@ -15,7 +15,7 @@
 • I enjoy exploring new technologies and building software projects that solve real-world problems.  
 
  
- 🛠️ What I Do:
+ 🛠️ What I Do: 
 
  • Develop modern, responsive web applications.
 
