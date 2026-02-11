@@ -16,7 +16,7 @@
 
  
  🛠️ What I Do: 
- 
+  
  • Develop modern, responsive web applications.
 
  • Work across the stack, from frontend to backend.
