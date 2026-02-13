@@ -4,7 +4,7 @@
      
   • Welcome to my GitHub profile. 
 
-  • I build modern web applications using React, TypeScript, JavaScript and PHP, with an interest in clean UI design and reliable backend systems.
+  • I build modern web applications using React, TypeScript, JavaScript and PHP, with an interest in clean UI design and reliable backend  systems.
 
   • I enjoy turning ideas into practical software and improving code quality through continuous learning and experimentation.
 
