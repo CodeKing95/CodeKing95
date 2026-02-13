@@ -1,27 +1,27 @@
   Hi there! I am Nadir Ahmed👋
+  
+  • Software Developer based in London, UK.
      
   • Welcome to my GitHub profile. 
-      
-  • I was born and raised in Germany. Now I reside in London, UK.   
+
+  • I build modern web applications using React, TypeScript, JavaScript and PHP, with an interest in clean UI design and reliable backend systems.
+
+  • I enjoy turning ideas into practical software and improving code quality through continuous learning and experimentation.
+
+  • My journey into development started in a web development class and quickly grew into a passion for full-stack development.
+
+  • Since then, I've been building projects that strengthen my skills across frontend architecture, APIs, and performance-focused development.
   
- 💻 Software Developer | React JS | TypeScript | JavaScript
-
-• When I wrote my first line of code in a web development class, I knew that this was what I wanted to pursue as a career. 
-
-• I really liked about turning ideas into impactful software solutions. 
-
-• I learned more about frontend and backend development, built projects, and developed a strong foundation in full-stack development.     
-
-• I enjoy exploring new technologies and building software projects that solve real-world problems.  
-
- 
- 🛠️ What I Do: 
   
- • Develop modern, responsive web applications.
+ 🛠️ What I'm focused on: 
+  
+ • Building responsive, production-ready web apps.
 
- • Work across the stack, from frontend to backend.
+ • Strengthening full-stack development skills.
 
- • Continuously learning & experimenting with emerging tools and frameworks.
+ • Exploring new tools and modern frameworks.
+
+ • Always learning. Always building.
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
