@@ -11,6 +11,8 @@
   • My journey into development started in a web development class and quickly grew into a passion for full-stack development.
 
   • Since then, I've been building projects that strengthen my skills across frontend architecture, APIs, and performance-focused development.
+
+  • I am also a coding bootcamp graduate in Frontend Development.
   
   
  🛠️ What I'm focused on: 
