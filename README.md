@@ -3,7 +3,7 @@
   • Software Developer based in London, UK.
      
   • Welcome to my GitHub profile. 
-
+ 
   • I build modern web applications using React, TypeScript, JavaScript and PHP.  
   
   • With an interest in building a clean UI design and reliable backend  systems.
