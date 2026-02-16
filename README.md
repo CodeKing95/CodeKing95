@@ -3,25 +3,18 @@
   • Software Developer based in London, UK.
      
   • Welcome to my GitHub profile. 
- 
-  • I build modern web applications using React, TypeScript, JavaScript and PHP.  
   
-  • With an interest in building a clean UI design and reliable backend  systems.
-
-  • I enjoy turning ideas into practical software and improving code quality through continuous learning and experimentation.
-
-  • My journey into development started in a web development class and quickly grew into a passion for full-stack development.
-
-  • Since then, I've been building projects that strengthen my skills across frontend architecture, APIs, and performance-focused development.
-
-  • I am also a coding bootcamp graduate in Frontend Development.
+  • I build modern web applications using React, TypeScript, JavaScript and PHP, with a focus on clean UI design, maintainable code, and reliable backend systems.  
   
+  • I enjoy turning ideas into practical software and continuously improving performance, architecture, and code quality.
   
  🛠️ What I'm focused on: 
   
  • Building responsive, production-ready web apps.
 
  • Strengthening full-stack development skills.
+
+ • Performance & code quality.
 
  • Exploring new tools and modern frameworks.
 
