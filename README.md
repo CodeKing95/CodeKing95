@@ -1,4 +1,4 @@
-  Hi there! I am Nadir Ahmed👋
+  • Hi there! I am Nadir Ahmed👋
   
   • Software Developer based in London, UK.
      
