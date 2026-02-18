@@ -14,7 +14,7 @@
 
  • Strengthening full-stack development skills.
 
- • Performance & code quality.
+ • Performance & code quality. 
 
  • Exploring new tools and modern frameworks.
 
