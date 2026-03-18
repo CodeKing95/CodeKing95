@@ -10,7 +10,7 @@
   
  🛠️ What I'm focused on:
    
- • Building responsive, production-ready web apps.
+ • Building responsive, production-ready web apps. 
 
  • Strengthening full-stack development skills.
 
