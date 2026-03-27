@@ -1,6 +1,6 @@
   • Hi there! I am Nadir Ahmed👋  
      
-  • Software Developer based in London, UK. 
+  • Software Developer based in London, UK.  
     
   • Welcome to my GitHub profile.
    
