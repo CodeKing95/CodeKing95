@@ -1,6 +1,6 @@
   • Hi there! I am Nadir Ahmed👋   
       
-  • Software Developer based in London, UK.   
+  • Fullstack Developer based in London, UK.   
     
   • Welcome to my GitHub profile. 
    
