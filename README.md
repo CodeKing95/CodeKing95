@@ -1,6 +1,6 @@
   • Hi there! I am Nadir Ahmed👋   
       
-  • A Software Engineer.   
+  • A Software Engineer.    
     
   • Welcome to my GitHub profile. 
    
